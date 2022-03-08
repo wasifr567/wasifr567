@@ -1,0 +1,16 @@
+nav{color: red;
+   background-color: #97cdf3;
+   font-style: italic;
+   text-align: center;
+   }
+   
+   body{color: red;
+   background-color:#97fdf3;
+   font-family:cursive !important;/*!important is used to give preference*/  
+   font-style: italic /*oblique*/;
+   font-variant: small-caps; /*upper case letters with first alphabet large*/
+  
+   }
+   span{color:gray;}
+   ul{color: gray;}
+   /**//**//**//**//**//**/
